@@ -3,7 +3,7 @@
 Simple movie app using Jetpack Compose. 
 
 ## ▶ Demos
-
+<img src="/movieAppGIF.gif" height="400" />
 
 
 
